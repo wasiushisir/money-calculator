@@ -1,0 +1,30 @@
+#text
+{
+    text-align: center;
+    color: coral;
+    margin-top: 25px;
+    margin-bottom: 25px;
+
+}
+.para{
+    font-weight: 600;
+}
+.input-color{
+    background-color:lightgray; 
+    
+}
+.first{
+    width: 45%;
+}
+.first img{
+     width: 80%;
+    /* height: 700px;  */
+  margin-left: 88px;
+}
+.second{
+    background-color: darkgoldenrod;
+      
+}
+#error-alert{
+    display: none;
+}
